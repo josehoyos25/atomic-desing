@@ -4,3 +4,4 @@ export { HomeTemplate } from './templates/HomeTemplate';
 export { AdminTemplate } from './templates/AdminTemplate';
 export { KardexTemplate } from './templates/KardexTemplate';
 export { ReportesTemplate } from './templates/ReportesTemplate';
+export { ActividadTemplate } from './templates/ActividadTemplate';

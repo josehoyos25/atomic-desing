@@ -5,6 +5,7 @@ export { Home } from './pages/home';
 export { Admin } from './pages/admin';
 export { Kardex } from './pages/kardex';
 export { Reportes } from './pages/reportes';
+export { Actividad } from './pages/actividades';
 export { MyRoutes } from './routers/routes';
 export { supabase } from './supabase/supabase.config';
 export { DataModulosConfiguracion, DesplegableUser, LinksArray, SecondarylinksArray, TemasData, TipoDocData, TipouserData } from './utils/dataEstatica';

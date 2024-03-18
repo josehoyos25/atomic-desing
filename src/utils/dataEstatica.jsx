@@ -51,6 +51,11 @@ export const LinksArray = [
     icon: <v.iconoempresa />,
     to: "/motaTomic",
   },
+  {
+    label: "Actividades",
+    icon: <v.iconoreportes />,
+    to: "/actividades",
+  },
  
 ];
 export const SecondarylinksArray = [

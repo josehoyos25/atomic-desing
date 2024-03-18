@@ -3,6 +3,7 @@ import { Home } from "../index";
 import { Admin } from "../index";
 import { Kardex } from "../index";
 import { Reportes } from "../index";
+import { Actividad } from "../index";
 export function MyRoutes() {
   return ( 
       <Routes>
@@ -10,6 +11,7 @@ export function MyRoutes() {
         <Route path="/admin" element={<Admin />} />
         <Route path="/kardex" element={<Kardex />} />
         <Route path="/reportes" element={<Reportes />} />
+        <Route path="/actividades" element={<Actividad />} />
       </Routes>
          
   );
